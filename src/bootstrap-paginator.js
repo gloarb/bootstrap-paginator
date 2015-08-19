@@ -268,7 +268,7 @@
                 i = 0;
 
 
-            this.$element.prop("class", "");
+            //this.$element.prop("class", "");
 
             this.$element.addClass("pagination");
 
